@@ -11,42 +11,42 @@
         <li class="res all on">
           <a href="https://snakegame07.netlify.com/" target="_blank">
             <img src="../assets/snake.jpg" alt="스네이크 홈페이지 바로가기">
-            <span>SnakeGame<br />-javascript<br /></span>
+            <span>SnakeGame<br /><br />-javascript<br /></span>
             <i class="xi-plus-thin"></i>
           </a>
         </li>
         <li class="web all on">
           <a href="https://www.youtube.com/watch?v=SPZAxTU4zms&feature=youtu.be" target="_blank">
             <img src="../assets/chatus.jpg" alt="">
-            <span>Random Chat<br />-Vue.js<br />-Firebase<br /></span>
+            <span>Random Chat<br /><br />-Vue.js<br />-Firebase<br /></span>
             <i class="xi-plus-thin"></i>
           </a>
         </li>
         <li class="web all on">
           <a href="https://github.com/dorai1050842/bookstore" target="_blank">
             <img src="../assets/bookstore.jpg" alt="">
-            <span>bookstore<br />-Java</span>
+            <span>bookstore<br /><br />-Java</span>
             <i class="xi-plus-thin"></i>
           </a>
         </li>
         <li class="web all on">
           <a href="https://shindaegu.netlify.com" target="_blank">
             <img src="../assets/sindaegu.jpg" alt="">
-            <span>sindaegu(clone)<br />Main Page<br /><br />-html<br>-css</span>
+            <span>sindaegu<br />메인 따라만들기(퍼블리싱)<br /><br />-html<br>-css</span>
             <i class="xi-plus-thin"></i>
           </a>
         </li>
         <li class="mob all on">
           <a href="https://www.pinterest.co.kr/chaeeun8097/" target="_blank">
             <img src="../assets/grid.jpg" alt="">
-            <span>pinterest<br />-Package Design<br /> -Product Design<br /> -Web Design<br /></span>
+            <span>pinterest<br />디자인작업물<br /><br />-Package Design<br /> -Product Design<br /> -Web Design<br /></span>
             <i class="xi-plus-thin"></i>
           </a>
         </li>
         <li class="mob all on">
           <a href="https://hansol.netlify.com/" target="_blank">
-            <img src="../assets/hansol.jpg" alt="롯데웨딩 홈페이지 바로가기">
-            <span>hansol(clone)<br />Main Page<br /><br />-html<br>-css<br />-swipper</span>
+            <img src="../assets/hansol.jpg" alt="">
+            <span>hansol<br />메인 따라만들기(퍼블리싱)<br /><br />-html<br>-css<br />-swipper</span>
             <i class="xi-plus-thin"></i>
           </a>
         </li>
